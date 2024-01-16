@@ -6,8 +6,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PhotoMaker-colab/blob/main/PhotoMaker_colab.ipynb) | PhotoMaker_colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PhotoMaker-colab/blob/main/PhotoMaker_gradio_colab.ipynb) | PhotoMaker_gradio_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PhotoMaker-colab/blob/main/PhotoMaker_colab.ipynb) | PhotoMaker_colab (Pro Colab 😐)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PhotoMaker-colab/blob/main/PhotoMaker_gradio_colab.ipynb) | PhotoMaker_gradio_colab (Pro Colab 😐)
 
 ### 🦆 Kaggle
 
