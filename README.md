@@ -19,7 +19,7 @@ https://arxiv.org/abs/2312.04461
 https://photo-maker.github.io/
 
 ### 🖼 Output
-
+![Screenshot 2024-01-22 032334](https://github.com/camenduru/PhotoMaker-colab/assets/54370274/c8c361b4-9070-451c-8718-837346d36099)
 
 ### 🏢 Sponsor
 https://modelslab.com
